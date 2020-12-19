@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608053901 source:d:\projet_codeblocks\programmation_c_cycle1_f2\programmation_c\projet_monk_c\test_tab\main.c
+	<stdio.h>
+	<stdlib.h>
+
